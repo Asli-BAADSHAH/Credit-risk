@@ -62,9 +62,3 @@ Our platform is trained on a large, diverse dataset of loan applications and cre
 * Handle large datasets and perform complex analysis, making it an ideal solution for lenders of all sizes.
 
 
-
-
-**Acknowledgments**
----------------
-
-We would like to acknowledge the following sources that have contributed to the development of our platform: [insert acknowledgments].
