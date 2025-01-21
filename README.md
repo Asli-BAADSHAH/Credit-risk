@@ -61,15 +61,8 @@ Our platform is trained on a large, diverse dataset of loan applications and cre
 
 * Handle large datasets and perform complex analysis, making it an ideal solution for lenders of all sizes.
 
-**Getting Started**
----------------
 
-To learn more about our Credit Risk Analysis Platform, please visit our website or contact us at ayushiit634@gmail.com.
 
-**Contributing**
-------------
-
-We welcome contributions to our platform. Please see our contributing guidelines for more information.
 
 **Acknowledgments**
 ---------------
